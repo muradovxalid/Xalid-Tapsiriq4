@@ -9,6 +9,13 @@
 p {
 	font-family: 'Permanent Marker', cursive;
 	margin-left: 70px;
+	border:solid;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-color: 	#D3D3D3;
+	width: 350px;
+	border-width: .5px;
 }
 
 .img{
@@ -19,8 +26,4 @@ p {
 	margin-bottom: 40px;
 	float: left;
 
-}
-.hr{
-	margin-left: 70px;
-	width: 350px;
 }
